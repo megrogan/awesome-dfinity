@@ -33,7 +33,7 @@ Submit a pull request to add a link to your repository here.
 
 - ✓ [DSCVR](http://dscvr.one/)
 
-- ✓ [OpenChat](https://7e6iv-biaaa-aaaaf-aaada-cai.ic0.app/)
+- ✓ [OpenChat](https://oc.app/)
 
 - ✓ [Internet Computer Tools](https://bmht6-iiaaa-aaaad-qabeq-cai.raw.ic0.app/)
 
